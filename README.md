@@ -1,14 +1,15 @@
 # Ing. Oliver Javier Beng Jiménez
 
-**Facturación electrónica 4.0 · Pasarelas de pago · Integración de ERP, CRM y punto de venta**
+**E-commerce · Facturación electrónica 4.0 · Pasarelas de pago · Integración de ERP, CRM y punto de venta**
 
 Desarrollador full stack con 9 años construyendo los sistemas por donde entra el dinero de una empresa y por donde sale su facturación. 4 años dirigiendo un área de programación.
-
-No hago páginas web. Me dedico a que el cobro funcione y a que el SAT lo acepte.
 
 ---
 
 ## En qué trabajo
+
+**E-commerce y tiendas en línea**
+Tiendas conectadas al ERP y al punto de venta, con inventario en tiempo real, cobro en línea y facturación automática. Catálogos con filtros, ordenamiento y scroll infinito.
 
 **Facturación electrónica 4.0 (CFDI)**
 Timbrado, complementos de pago, addendas personalizadas por cliente y cancelaciones con flujo de aceptación. Validado contra lo que exige el SAT.
@@ -20,13 +21,13 @@ Integración y conciliación con Conekta, Conekta OXXO, Stripe, PayU, PayPal y M
 Envío con plantillas oficiales de Meta, manejo de estados y webhooks.
 
 **Integración de sistemas**
-ERP, CRM y punto de venta hablando entre sí y con tiendas en línea. Inventarios en tiempo real y portales para proveedores y clientes.
+ERP, CRM y punto de venta hablando entre sí. Inventarios en tiempo real y portales para proveedores y clientes.
 
 ---
 
 ## Stack
 
-`PHP` · `Laravel` · `CodeIgniter` · `MySQL` · `JavaScript` · `jQuery` · `AJAX` · `Bootstrap` · `Tailwind CSS` · `APIs REST` · `Git`
+`PHP` · `Laravel` · `CodeIgniter` · `MySQL` · `JavaScript` · `jQuery` · `AJAX` · `Bootstrap` · `Tailwind CSS` · `Vue.js` · `APIs REST` · `Git`
 
 ---
 
